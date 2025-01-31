@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on C# projects,
 - 📫 How to reach me ... Malakai495@hotmail.com
-  
+- I'm new to GitHub 
 - ⚡ Fun fact: ... I built my first Windows PC when I was 10. 
 
 <!---
